@@ -162,6 +162,8 @@ cython_debug/
 # MacOS
 .DS_Store
 
+config.yaml
+
 # Prevents common data formats from being kept in git
 # if for some reason you want to source code control your data you will need to remove this
 data/*.csv
